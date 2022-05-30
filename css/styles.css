@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+@font-face {
+    font-family: matutasfonti;
+    src: url(../fonts/Montserrat-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: blakafonti;
+    src: url(../fonts/Blaka-Regular.ttf);
+}
+@font-face {
+    font-family: glahofonti;
+    src: url(../fonts/bpg_glaho_sylfaen.ttf);
+}
+.p1{
+    background-color: blanchedalmond;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.p2{
+    background-color: aqua;
+    font-family: 'Pacifico', cursive;
+}
+.box1{
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+    display: inline-block;
+}
+.p2 a{
+    display: inline-block;
+}
+.box2{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    display: none;
+}
+.p3{
+    font-family: 'Sacramento', cursive;
+    font-size: 40px;
+}
+.p4{
+    font-family: matutasfonti;
+}
+.p5{
+    font-family: blakafonti ;
+}
+.p6{
+    font-family: glahofonti;
+}
+.fa-circle-arrow-down{
+    font-size: 40px;
+    color: aquamarine;
+}
